@@ -1,5 +1,5 @@
 # html-project-1
-my first html project
+you can do it
 
 
 # Notes
